@@ -17,5 +17,5 @@ class Person
     @job
   end
   
-  person_one=person.new
+  person_one=Person.new
   
