@@ -18,4 +18,5 @@ class Person
   end
   
   person_one=Person.new
+  puts person_one=Person.new ('lawyer')
   
