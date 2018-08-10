@@ -12,6 +12,9 @@ class Dog
     @breed= new_breed
   end
   
+  def breed
+    
+  end  
 end
 
 dog_one = Dog.new
