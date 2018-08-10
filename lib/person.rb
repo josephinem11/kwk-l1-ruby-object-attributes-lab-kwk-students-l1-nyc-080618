@@ -15,4 +15,7 @@ class Person
   
   def job
     @job
+  end
+  
+  person_one=person.new
   
