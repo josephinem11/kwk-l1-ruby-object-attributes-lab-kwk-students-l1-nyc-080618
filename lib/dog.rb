@@ -5,3 +5,6 @@ class Dog
   end
   
 end
+
+dog_one = Dog.new
+puts dog_one.name
