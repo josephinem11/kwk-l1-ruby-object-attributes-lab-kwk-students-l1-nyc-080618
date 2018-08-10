@@ -8,6 +8,10 @@ class Dog
     @name
   end
   
+  def breed= (new_breed)
+    
+  end
+  
 end
 
 dog_one = Dog.new
